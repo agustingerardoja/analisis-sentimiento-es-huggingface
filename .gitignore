@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face / modelos descargados (no versionar pesos)
+.cache/
+hf_cache/
+*.safetensors
+*.bin
+
+# Resultados generados (se regeneran ejecutando el notebook)
+results/*.png
+results/*.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Credenciales — NUNCA subir tokens
+.env
+*token*.txt
