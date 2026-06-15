@@ -1,0 +1,121 @@
+id,texto,etiqueta,dominio,longitud_caracteres,num_palabras
+es-001,Me encanto este telefono! La bateria dura todo el dia y la camara es excelente.,POS,electronica,79,15
+es-002,"El restaurante supero mis expectativas, la comida estaba deliciosa y el servicio fue impecable.",POS,restaurante,95,14
+es-003,"Excelente compra, el producto llego antes de lo esperado y en perfecto estado.",POS,compras,78,13
+es-004,La aplicacion es muy intuitiva y me ha ahorrado muchisimo tiempo en el trabajo.,POS,software,79,14
+es-005,"Que gran experiencia, el hotel era hermoso y el personal super amable.",POS,viajes,70,12
+es-006,"Recomiendo totalmente este libro, no pude dejar de leerlo hasta el final.",POS,entretenimiento,73,12
+es-007,La nueva actualizacion mejoro el rendimiento; ahora todo funciona rapidisimo.,POS,software,77,10
+es-008,"Estoy feliz con mi compra, la calidad de la tela es increible y muy comoda.",POS,ropa,75,15
+es-009,"El soporte tecnico resolvio mi problema en minutos, quede muy satisfecho.",POS,servicio,73,11
+es-010,"Una pelicula maravillosa, me emociono de principio a fin.",POS,entretenimiento,57,9
+es-011,"La laptop es ligera, potente y la pantalla se ve espectacular.",POS,electronica,62,11
+es-012,"El viaje fue perfecto, todo estuvo bien organizado y sin contratiempos.",POS,viajes,71,11
+es-013,Los audifonos tienen un sonido brutal y la cancelacion de ruido funciona de maravilla.,POS,electronica,86,14
+es-014,"Mil gracias al repartidor, super rapido y muy atento.",POS,servicio,53,9
+es-015,"Este curso me cambio la forma de programar, lo volveria a tomar sin dudarlo.",POS,educacion,76,14
+es-016,El cafe estaba delicioso y el ambiente del local es acogedor.,POS,restaurante,61,11
+es-017,"La verdad, el mejor servicio al cliente que he recibido en anos.",POS,servicio,64,12
+es-018,"Me sorprendio lo bien que funciona, vale cada peso que pague.",POS,compras,61,11
+es-019,"La camara captura fotos nitidas incluso de noche, estoy encantada.",POS,electronica,66,10
+es-020,"Excelente relacion calidad-precio, lo recomiendo a ojos cerrados.",POS,compras,65,8
+es-021,El sofa es comodisimo y se ve elegante en la sala.,POS,hogar,50,11
+es-022,"La pizza llego caliente y riquisima, repetire sin duda.",POS,restaurante,55,9
+es-023,"Gran atencion del personal, me senti muy bien atendido todo el tiempo.",POS,servicio,70,12
+es-024,"La app de banca por fin es facil de usar, felicidades al equipo!",POS,software,64,13
+es-025,"Increible concierto, la banda sono espectacular y la energia fue contagiosa.",POS,entretenimiento,76,11
+es-026,"El medicamento me alivio rapido, muy contento con los resultados.",POS,salud,65,10
+es-027,La bicicleta es resistente y muy comoda para los trayectos largos.,POS,transporte,66,11
+es-028,"Servicio puntual y chofer muy amable, llegue tranquilo a mi destino.",POS,transporte,68,11
+es-029,"Las zapatillas son comodisimas, perfectas para correr largas distancias.",POS,ropa,72,9
+es-030,"El tutorial fue clarisimo, aprendi a usar la herramienta en una tarde.",POS,educacion,70,12
+es-031,"Que buen detalle, incluyeron una nota y un regalo con el pedido.",POS,compras,64,12
+es-032,"La serie esta espectacular, cada capitulo te deja con ganas de mas.",POS,entretenimiento,67,12
+es-033,El hotel tenia una vista preciosa y desayuno buenisimo incluido.,POS,viajes,64,10
+es-034,"Funciona perfecto con mi consola, la instalacion fue rapidisima.",POS,electronica,64,9
+es-035,"La maestra explica muy bien, mi hijo mejoro muchisimo en matematicas.",POS,educacion,69,11
+es-036,"Compre la aspiradora y limpia increible, supero mis expectativas.",POS,hogar,65,9
+es-037,El equipo de soporte fue paciente y resolvio todas mis dudas.,POS,servicio,61,11
+es-038,"Comida fresca, porciones generosas y precios justos, volvere pronto.",POS,restaurante,68,9
+es-039,"La actualizacion trajo funciones nuevas geniales, me encanta la app ahora.",POS,software,74,11
+es-040,"Excelente calidad de imagen en la tele, los colores son vivos y reales.",POS,electronica,71,13
+es-041,El paquete llego en la fecha estimada y venia en su caja original.,NEU,compras,66,13
+es-042,"El telefono cumple con lo basico, ni me sorprende ni me decepciona.",NEU,electronica,67,12
+es-043,La reunion se reprogramo para el proximo martes a las diez.,NEU,servicio,59,11
+es-044,El producto es de color azul y mide veinte centimetros de largo.,NEU,compras,64,12
+es-045,La aplicacion se actualizo automaticamente durante la noche.,NEU,software,60,8
+es-046,El restaurante abre de lunes a sabado de nueve a seis.,NEU,restaurante,54,11
+es-047,Recibi el correo con la confirmacion de mi pedido esta manana.,NEU,compras,62,11
+es-048,El hotel esta ubicado a dos cuadras de la estacion de metro.,NEU,viajes,60,12
+es-049,"La bateria dura lo que indica el fabricante, nada fuera de lo comun.",NEU,electronica,68,13
+es-050,El libro tiene trescientas paginas y esta dividido en diez capitulos.,NEU,entretenimiento,69,11
+es-051,El tecnico vendra a revisar el equipo entre las dos y las cuatro.,NEU,servicio,65,13
+es-052,"La camiseta es talla mediana y de algodon, como aparece en la foto.",NEU,ropa,67,13
+es-053,El curso consta de cinco modulos y un examen final.,NEU,educacion,51,10
+es-054,El pedido incluye dos articulos y un instructivo de uso.,NEU,compras,56,10
+es-055,La pelicula dura aproximadamente dos horas con creditos incluidos.,NEU,entretenimiento,66,9
+es-056,El pago se proceso con tarjeta y recibi el comprobante.,NEU,servicio,55,10
+es-057,El producto requiere dos pilas AA que no vienen incluidas.,NEU,electronica,58,10
+es-058,La tienda cambio su horario por la temporada de fin de ano.,NEU,compras,59,12
+es-059,El envio se realiza mediante paqueteria estandar en cinco dias habiles.,NEU,compras,71,11
+es-060,La app esta disponible para Android y iOS por igual.,NEU,software,52,10
+es-061,"El modelo nuevo es similar al anterior, con cambios menores.",NEU,electronica,60,10
+es-062,El vuelo hace una escala de una hora en la ciudad de Panama.,NEU,viajes,60,13
+es-063,Me entregaron la factura impresa junto con el producto.,NEU,servicio,55,9
+es-064,El monitor tiene dos puertos HDMI y uno de tipo USB-C.,NEU,electronica,54,11
+es-065,"El plato lleva arroz, pollo y verduras al vapor.",NEU,restaurante,48,9
+es-066,La contrasena debe tener al menos ocho caracteres.,NEU,software,50,8
+es-067,El evento se llevara a cabo en el salon principal del segundo piso.,NEU,servicio,67,13
+es-068,"Cambiaron el empaque, pero el contenido es el mismo de siempre.",NEU,compras,63,11
+es-069,"El servicio incluye instalacion, pero no la configuracion avanzada.",NEU,servicio,67,9
+es-070,La garantia cubre doce meses a partir de la fecha de compra.,NEU,compras,60,12
+es-071,El autobus pasa cada quince minutos por esta parada.,NEU,transporte,52,9
+es-072,El documento esta en formato PDF y pesa dos megabytes.,NEU,software,54,10
+es-073,La habitacion tiene una cama matrimonial y un escritorio.,NEU,viajes,57,9
+es-074,El supermercado reabastece sus estantes los dias miercoles.,NEU,compras,59,8
+es-075,La actualizacion ocupa quinientos megabytes de espacio.,NEU,software,55,7
+es-076,El producto se fabrica en Mexico y se distribuye en la region.,NEU,compras,62,12
+es-077,La cita medica quedo agendada para el jueves por la tarde.,NEU,salud,58,11
+es-078,El cargador es compatible con varios modelos de la marca.,NEU,electronica,57,10
+es-079,El informe resume las ventas del primer trimestre del ano.,NEU,servicio,58,10
+es-080,El paquete contiene el manual en espanol y en ingles.,NEU,compras,53,10
+es-081,"Pesima experiencia, el producto llego roto y nadie responde mis mensajes.",NEG,compras,73,11
+es-082,"La comida estaba fria y el servicio fue lentisimo, no vuelvo.",NEG,restaurante,61,11
+es-083,"La bateria se descarga en un par de horas, una verdadera decepcion.",NEG,electronica,67,12
+es-084,"La aplicacion se cierra sola constantemente, es imposible usarla.",NEG,software,65,9
+es-085,"El hotel estaba sucio y el personal fue grosero, no lo recomiendo.",NEG,viajes,66,12
+es-086,Me cobraron de mas y todavia no me devuelven el dinero.,NEG,servicio,55,11
+es-087,"El libro es aburridisimo, no pude pasar del primer capitulo.",NEG,entretenimiento,60,10
+es-088,"La actualizacion arruino el telefono, ahora va lentisimo.",NEG,software,57,8
+es-089,"Pesima calidad, la tela se rompio a la primera lavada.",NEG,ropa,54,10
+es-090,Llevo una semana esperando el reembolso y nadie me da respuesta.,NEG,servicio,64,11
+es-091,"La pelicula es un desastre, perdi dos horas de mi vida.",NEG,entretenimiento,55,11
+es-092,"La laptop se sobrecalienta y se apaga sola, que frustracion.",NEG,electronica,60,10
+es-093,El paquete nunca llego y la paqueteria no da explicaciones.,NEG,compras,59,10
+es-094,"Los audifonos dejaron de funcionar a la semana, dinero tirado.",NEG,electronica,62,10
+es-095,El repartidor fue muy grosero y dejo el pedido tirado en la puerta.,NEG,servicio,67,13
+es-096,"Este curso es una estafa, el contenido esta desactualizado.",NEG,educacion,59,9
+es-097,El cafe sabia a quemado y lo cobraron carisimo.,NEG,restaurante,47,9
+es-098,"El peor servicio al cliente, me dejaron en espera una hora.",NEG,servicio,59,11
+es-099,"No funciona como prometen, me siento totalmente enganado.",NEG,compras,57,8
+es-100,"La camara toma fotos borrosas, una pesima compra.",NEG,electronica,49,8
+es-101,"Carisimo para lo poco que ofrece, no lo vale en absoluto.",NEG,compras,57,11
+es-102,"El sofa llego con manchas y huele horrible, lo quiero devolver.",NEG,hogar,63,11
+es-103,La pizza llego fria y con ingredientes que no pedi.,NEG,restaurante,51,10
+es-104,"Nadie en el local nos atendio, terminamos yendonos molestos.",NEG,restaurante,60,9
+es-105,"La app del banco falla justo cuando necesitas pagar, indignante.",NEG,software,64,10
+es-106,"El concierto fue una decepcion, el sonido era pesimo.",NEG,entretenimiento,53,9
+es-107,El medicamento no sirvio de nada y encima me cayo mal.,NEG,salud,54,11
+es-108,"La bicicleta se descompuso a la semana, mala calidad.",NEG,transporte,53,9
+es-109,"El chofer manejo imprudente y llego tardisimo, terrible.",NEG,transporte,56,8
+es-110,"Las zapatillas se despegaron al mes, que perdida de dinero.",NEG,ropa,59,10
+es-111,"El tutorial es confuso y esta lleno de errores, no sirve.",NEG,educacion,57,11
+es-112,Faltaban piezas en el pedido y nadie soluciona el problema.,NEG,compras,59,10
+es-113,"La serie es predecible y mal actuada, no la recomiendo.",NEG,entretenimiento,55,10
+es-114,"La habitacion del hotel tenia cucarachas, una asquerosidad.",NEG,viajes,59,8
+es-115,"El producto es incompatible con mi equipo, perdi mi dinero.",NEG,electronica,59,10
+es-116,La maestra nunca responde dudas y las clases son un caos.,NEG,educacion,57,11
+es-117,La aspiradora hace un ruido insoportable y no aspira bien.,NEG,hogar,58,10
+es-118,"Soporte tecnico inutil, llevo dias sin que resuelvan nada.",NEG,servicio,58,9
+es-119,"Comida en mal estado, termine con dolor de estomago.",NEG,restaurante,52,9
+es-120,"La nueva version elimino funciones utiles, un retroceso total.",NEG,software,62,9
